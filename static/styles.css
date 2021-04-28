@@ -1,0 +1,8 @@
+body {
+    background:red; 
+    font-family: Verdana ;
+}
+
+.hidden {
+    display: none;
+}
