@@ -9,7 +9,8 @@ var chmodes = [
     'No death',
     'No Autoguns',
     'Revolver / Pistols only',
-    'No Bullet time'
+    'No Bullet time',
+    'Kills only from cover'
 ];
 
 
